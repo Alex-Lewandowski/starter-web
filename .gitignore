@@ -1,2 +1,3 @@
 dont_track.txt
 *.log
+/log
